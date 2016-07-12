@@ -1,10 +1,10 @@
 {
-  "name": "twitter",
+  "name": "tweets",
   "version": "1.0.0",
   "description": "Get list of tweets of selected user.",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec",
+    "test": "mocha --reporter spec",
     "start": "node index.js"
   },
   "author": "Rowen",
@@ -13,5 +13,17 @@
     "chai": "^3.5.0",
     "jsdoc": "^3.4.0",
     "mocha": "^2.5.3"
-  }
+  },
+  "dependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowen92/tweets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rowen92/tweets/issues"
+  },
+  "homepage": "https://github.com/rowen92/tweets#readme"
 }
