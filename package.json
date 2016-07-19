@@ -14,9 +14,6 @@
     "jsdoc": "^3.4.0",
     "mocha": "^2.5.3"
   },
-  "dependencies": {
-    "twitter": "^1.3.0"
-  },
   "directories": {
     "test": "test"
   },
@@ -27,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/rowen92/tweets/issues"
   },
-  "homepage": "https://github.com/rowen92/tweets#readme"
+  "homepage": "https://github.com/rowen92/tweets#readme",
+  "dependencies": {
+    "oauth": "^0.9.14"
+  }
 }
