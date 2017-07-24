@@ -1,4 +1,4 @@
-# Twitter 
+# Tweets
 ###### Get list of tweets of selected user.
 
 ### Requirenments
@@ -6,7 +6,7 @@
 
 ### Install
 ```sh
-$ git clone git@github.com:rowen92/twitter.git
+$ git clone git@github.com:rowen92/tweets.git
 $ npm install
 ```
 
